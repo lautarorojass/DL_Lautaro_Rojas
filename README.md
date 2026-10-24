@@ -2,7 +2,10 @@
 **Alumno:** Rojas Lautaro 
 **Materia:** Inteligencia Artificial / Aprendizaje Profundo 
 **Fecha:** 24/10/2026 
-## 📁 Contenido del Repositorio Este repositorio contiene la entrega del primer trabajo práctico introductorio: - `TP1_Lautaro_Rojas.ipynb`: Cuaderno de Google Colab con ejercicios de presupuesto personal, condicionales `if/else`, cálculo de aumentos con bucles `for` y resolución del desafío práctico. --- 
+## 📁 Contenido del Repositorio 
+Este repositorio contiene la entrega del primer trabajo práctico introductorio:
+`TP1_Lautaro_Rojas.ipynb`: 
+Cuaderno de Google Colab con ejercicios de presupuesto personal, condicionales `if/else`, cálculo de aumentos con bucles `for` y resolución del desafío práctico. 
 ## 💡 Conceptos Aprendidos en esta Práctica 
 1. **Variables:** Guardar datos en nombres representativos (`ingreso_mensual`, `comida`).
 2. **Operaciones:** Uso de operaciones matemáticas automáticas (`+`, `-`, `*`, `/`).
